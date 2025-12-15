@@ -7,9 +7,8 @@ import smtplib
 import pandas as pd
 from email.message import EmailMessage
 from pathlib import Path
-
-
-
+from dotenv import load_dotenv
+load_dotenv()
 
 # ==========================
 # Configuration
@@ -155,7 +154,7 @@ def main():
         return
 
     hr_emails = hr_emails[:MAX_EMAILS_PER_RUN]
-    resume_path = "resume/Resume_Sample.pdf"
+    resume_path = "resume/Dhanunjay_Draksharapu_Resume.pdf"
 
 
     try:
