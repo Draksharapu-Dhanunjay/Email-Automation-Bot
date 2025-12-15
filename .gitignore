@@ -1,0 +1,12 @@
+#python
+venv/
+__pycache__/
+*.pyc
+
+#environment & secrets
+.env
+
+#project data (privacy)
+logs/
+data/
+resume/*.pdf

@@ -1,0 +1,21 @@
+Dear Hiring Team,
+
+I am writing to express my interest in any open Software or Java Backend
+Developer opportunities within your organization.
+
+I have hands-on experience building backend systems and applications,
+with a focus on Java and Spring Boot. My work includes:
+
+- Developing RESTful backend services using Java and Spring Boot
+- Designing SQL-based data models and queries
+- Implementing core backend logic using Data Structures and Algorithms
+- Building end-to-end backend projects with Spring Boot, REST APIs, and SQL
+
+I have attached my resume for your review.
+
+Best regards,
+Dhanunjay Draksharapu
+Mobile: +91 XXXXXXXX
+Email: XXXXXX@gmail.com
+LinkedIn: https://www.linkedin.com/in/draksharapu-dhanunjay-9a564a3a0/
+GitHub: https://github.com/Draksharapu-Dhanunjay
